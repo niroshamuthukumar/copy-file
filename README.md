@@ -28,6 +28,7 @@ with open("sample.txt","r") as firstfile:
             secondfile.write(line)
 ```
 ### OUTPUT:
-![hey](/copy%20sample.png)
+![Screenshot 2023-12-29 122031](https://github.com/niroshamuthukumar/copy-file/assets/151830921/abbd76b0-df66-4cc3-ae71-c3ce1e44d35d)
+
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
